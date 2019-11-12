@@ -29,4 +29,4 @@ queue.o: queue.cpp queue.hpp
 	$(CXX) $(CFLAGS) -c queue.cpp
 
 clean:
-	rm *.o queue
+	rm *.o queueg
